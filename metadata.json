@@ -1,0 +1,6 @@
+{
+  "name": "VIONEX × NHAA - AI Risk & Assessment Portal",
+  "description": "AI-based real-time stress and trauma assessment module for victims and complainants accessing NHAA (14566) and Integrated Portal (SIH26093).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
